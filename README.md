@@ -1,4 +1,4 @@
-# ObjectPat
+# Object#Pat
 
 Monkey patches `Object` adding the `pat` method.
 `pat` lets you chain the results of any block, allowing you to reduce temporary variable assignments.
