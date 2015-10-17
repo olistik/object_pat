@@ -1,5 +1,7 @@
 # Object#Pat
 
+[![Build Status](https://travis-ci.org/olistik/object_pat.svg)](https://travis-ci.org/olistik/object_pat)
+
 Monkey patches `Object` adding the `pat` method.
 `pat` lets you chain the results of any block, allowing you to reduce temporary variable assignments.
 
